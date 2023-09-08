@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaushj&theme=" alt="gaushj" /></a> </p>
 
-- 🔭 I’m currently working on **Storyfy (Generative AI based story generator)**
+- 🔭 I’m currently working on **PetFindr (web app to find lost pets in your area)**
 - 🌱 I’m currently learning **NextJS and Docker**
 - 💬 Ask me about **ReactJS, Chess, Startups, Product Management**
 - 📫 How to reach me **gauranshjuneja@gmail.com**
